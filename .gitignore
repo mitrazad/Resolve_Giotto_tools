@@ -1,0 +1,5 @@
+*.rds
+Interoperability_RubD.R
+Cellpose.dragonfly.W6A1/
+.DS_Store
+.Rapp.history
