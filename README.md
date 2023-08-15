@@ -4,9 +4,9 @@ The ResolveSeurat_to_Giotto (RStG) function converts a Seurat object from Resolv
 
 ## 1) ResolveSurat_to_Giotto function
 
-The ResolveSeurat_to_Giotto (RStG) is based on the [seuratToGiotto function](https://github.com/RubD/Giotto/blob/suite/R/interoperability.R).
+The ResolveSeurat_to_Giotto (RStG) function is based on the [seuratToGiotto function](https://github.com/RubD/Giotto/blob/suite/R/interoperability.R).
 
-The RStG function was tested against an official Resolve tutorial from the Giotto suite webpage. See [test example] ()
+The RStG function was tested against an official Resolve tutorial from the Giotto suite webpage. See [test example](https://github.com/mitrazad/Resolve_Giotto_tools/blob/main/RStG_tutorial.R)
 
 The Resolve tutorial from the Giotto suite webpage: [Resolve Bioscience Breast Cancer Subcellular](https://giottosuite.readthedocs.io/en/latest/subsections/datasets/resolve_bc_210928.html)
 
@@ -14,4 +14,5 @@ The RStG function uses a Seurat object created with [ResolveSeurat](https://code
 
 The script currently requires the Giotto suite version [Giotto suite](https://github.com/drieslab/Giotto_site_suite)
 
-Note: + The coordinate systems for cells are different between Seurat and Giotto (in Seurat X and Y are inverted).
+Note: 
++ The coordinate systems for cells are different between Seurat and Giotto (in Seurat X and Y are inverted).
