@@ -1,5 +1,9 @@
 *.rds
 Interoperability_RubD.R
 Cellpose.dragonfly.W6A1/
+RStG_versions.Rmd
+RStG_tutorial_Mitra.R
+Giotto_Resolve_lab_tutorial_Mitra.R
 .DS_Store
 .Rapp.history
+README.md
